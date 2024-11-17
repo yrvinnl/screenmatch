@@ -42,7 +42,7 @@ public class PrincipalConListas {
 
         Collections.sort(listaDeArtistas);
         System.out.println("Lista de artistas ordenada: " + listaDeArtistas);
-        Collections.sort(lista);
+        //Collections.sort(lista);
 
 
     }
